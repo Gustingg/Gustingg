@@ -1,21 +1,10 @@
-## Aopa, bão? 👋
+## Olá, tudo bem? 👋
 
 ### Sobre mim:
 
 **Nome:** Gustavo Vilas Boas Cordeiro<br/>
 **Nascido em:** 1996<br/>
 **Formado em:** Análise e Desenvolvimento de Sistemas na FATEC Rio Preto.<br/>
-
-### Linguagens:
-- [x] C & C++
-- [x] PHP
-- [x] JavaScript
-- [x] CSS
-- [ ] ReactJS
-- [ ] NodeJS
-
-### Banco de Dados:
-MySQL e noção de SQL Server
 
 ### Projetos já feitos:
 [Colorfitas](https://colorfitas.com.br)<br/>
