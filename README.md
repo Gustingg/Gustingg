@@ -12,7 +12,7 @@
 [Palavras para o Nascer](http://palavrasparaonascer.com.br)<br/>
 
 ### O que eu pretendo:
-Pretendo me professionalizar em Front-End começando pelo ReactJS.
+Pretendo me profissionalizar em Front-End começando pelo ReactJS.
 
 ### Contato:
 **Email:** gustavo.vilas96@gmail.com<br/>
