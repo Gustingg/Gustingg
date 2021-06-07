@@ -6,10 +6,11 @@
 **Nascido em:** 1996<br/>
 **Formado em:** Análise e Desenvolvimento de Sistemas na FATEC Rio Preto.<br/>
 
-### Projetos já feitos:
-[Colorfitas](https://colorfitas.com.br)<br/>
-[Tabimi Modas](https://tabimi.com.br)<br/>
-[Palavras para o Nascer](http://palavrasparaonascer.com.br)<br/>
+### Linguagens:
+*PHP
+*JavaScript
+*C/C++/C#
+*CSS
 
 ### O que eu pretendo:
 Pretendo me profissionalizar em Front-End começando pelo ReactJS.
