@@ -7,10 +7,10 @@
 **Formado em:** Análise e Desenvolvimento de Sistemas na FATEC Rio Preto.<br/>
 
 ### Linguagens:
-*PHP
-*JavaScript
-*C/C++/C#
-*CSS
+* PHP
+* JavaScript
+* C/C++/C#
+* CSS
 
 ### O que eu pretendo:
 Pretendo me profissionalizar em Front-End começando pelo ReactJS.
