@@ -30,7 +30,6 @@
 **Linkedin:** [gustvbc](https://www.linkedin.com/in/gustvbc/)
 
 <div>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustingg&show_icons=true&theme=monokai&include_all_commits=true"/>
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustingg&layout=compact&langs_count=16&theme=monokai"/>
 </div>
 
